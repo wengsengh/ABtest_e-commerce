@@ -1,4 +1,4 @@
-# ABtest_e-commerce
+# ABtest for e-commerce website
 
 This project analyses the results of an A/B test run by an e-commerce website. First, calculate the sample size then follow by the p-value. Here the sample size calculation formula and p-value calculation formula for mean difference and proportional difference. In this project, the statistic is the proportional difference.
 
